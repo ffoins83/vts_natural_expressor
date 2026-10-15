@@ -1,0 +1,8 @@
+.build_tools/
+build/
+__pycache__/
+*.py[cod]
+*.spec
+VTS Natural Expressor.exe
+vts_token.json
+profiles.json
